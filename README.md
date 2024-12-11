@@ -24,5 +24,5 @@ En este proyecto, se ha creado una página web que ofrece a las MiPymes colombia
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/transformacion-digital-mipymes.git
+   git clone https://malejarv24.github.io/TransformacionDigital/
 
