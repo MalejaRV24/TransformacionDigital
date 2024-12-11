@@ -28,4 +28,6 @@ En este proyecto, se ha creado una página web que ofrece a las MiPymes colombia
 
 ## Ver la página online
 Copie y pegue el siguiente link:
-[https://malejarv24.github.io/TransformacionDigital/]
+
+ ```bash
+https://malejarv24.github.io/TransformacionDigital/
